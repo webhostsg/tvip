@@ -139,8 +139,6 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cip3E0N.jpg" tvg-country="UK" tvg-url="" group-title="",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ssybCGi.jpg" group-title="",Islam Channel
-http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png" tvg-country="TT" tvg-url="" group-title="Religious",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English
@@ -155,3 +153,43 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Asia" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="",National Geographic Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:0,MY: TV1
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15883.ts
+#EXTINF:0,MY: TV2
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15882.ts
+#EXTINF:0,MY: TV3
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15881.ts
+#EXTINF:0,MY: NTV7
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15885.ts
+#EXTINF:0,MY: 8TV
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15899.ts
+#EXTINF:0,MY: TV9
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15880.ts
+#EXTINF:0,MY: ASIAN FOOD CHANNEL
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15898.ts
+#EXTINF:0,MY: ASTRO AWANI
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15897.ts
+#EXTINF:0,MY: ASTRO CITRA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15896.ts
+#EXTINF:0,MY: ASTRO MAYA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15895.ts
+#EXTINF:0,MY: ASTRO MUSTIKA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15894.ts
+#EXTINF:0,MY: ASTRO OASIS
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15893.ts
+#EXTINF:0,MY: ASTRO PRIMA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15892.ts
+#EXTINF:0,MY: ASTRO RIA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15891.ts
+#EXTINF:0,MY: ASTRO WARNA
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15890.ts
+#EXTINF:0,MY: AXN HD
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15889.ts
+#EXTINF:0,MY: FOX ACTION MOVIES
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15888.ts
+#EXTINF:0,MY: FOX MOVIES PREMIUM
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15887.ts
+#EXTINF:0,MY: STAR WORLD HD
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15884.ts
+#EXTINF:0,MY: HISTORY HD
+http://king-box.club:80/live/lethesptl/jQApS1LpGU/15886.ts

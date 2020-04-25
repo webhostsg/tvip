@@ -42,12 +42,6 @@ https://rtm1hdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b206400
 #EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-country="MY" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="Sport",RTM Sports
 https://rtm6hdmobile.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_360p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
@@ -55,8 +49,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Entertainment",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Local",AREK TV SURABAYA

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="",Channel 5
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
@@ -34,6 +34,10 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1587924066/ei/AnilXo6yLcnw4-EPlY21sAQ/ip/202.187.186.36/id/Nkp6aUDGf4Q.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-uphxqvujvh-30a6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/11880/mh/tC/mm/44/mn/sn-uphxqvujvh-30a6/ms/lva/mv/m/mvi/0/pl/15/dover/11/keepalive/yes/mt/1587902356/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALpjgNG6rb-sxrn_wqbQq4vz0cvuGGwi1P8Wmg-daiLYAiA_vpPnAg47MdgQOU3wVhTOKB_RQIRuI5rCr3WhQ5eY5Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgerRoyjXsEPtkxGrurKkHeuNmds_Y6Kp-jdd2hkjB9UgCIQCEoljXmM6NcNoG3CrXa_DGYVolGhjSDUS55KgEBtnw0A%3D%3D/playlist/index.m3u8|Referer=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdGHAbJXd_0ouXs_MbwoMsg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8

@@ -147,7 +147,13 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Asia" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="",National Geographic Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE 
-http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO HD
+http://maxptv.net:8080/live/morgana/morgana/131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO 2 HD
+http://maxptv.net:8080/live/morgana/morgana/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO Family HD
+http://maxptv.net:8080/live/morgana/morgana/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO Plus HD
+http://maxptv.net:8080/live/morgana/morgana/128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",HBO Signature HD
+http://maxptv.net:8080/live/morgana/morgana/531.m3u8

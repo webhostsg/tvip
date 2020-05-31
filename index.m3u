@@ -147,3 +147,21 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Asia" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="" group-title="",National Geographic Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO SIGNATURE 
+http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO PLUS 
+http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  HBO FAMILY
+http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 2
+http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 
+http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2
+http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts

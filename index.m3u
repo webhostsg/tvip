@@ -152,87 +152,56 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Rachun Dunia (1950)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Juwita (1951)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Juwita.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anjoran Nasib (1952)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Anjoran_Nasib.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hujan Panas (1953)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ibu (1953)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Hujan_Panas.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Panggilan Pulau (1954)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Panggilan_Pulau.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Abu Hasan Penchuri (1955)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Penarek Becha (1956)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Abu_Hasan_Penchuri.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anakku Sazali (1956)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hang Tuah (1959)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Anakku_Sazali.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Semerah Padi (1956)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Bujang Lapok (1957)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Semerah_Padi.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sergeant Hassan (1958)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sumpah Orang Minyak (1958)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Sarjan_Hassan.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Musang Berjanggut (1959)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Musang_Berjanggut.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Nujum Pak Belalang (1959)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Nujum_Pak_Belalang.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Pendekar Bujang Lapok (1959)
 http://192.168.1.112/shares/T_Drive/pramlee/pendekar_bujang_lapok.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ali Baba Bujang Lapok (1961)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Antara Dua Darjat 1960
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Ali_Baba_Bujang_Lapok.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Seniman Bujang Lapok (1961)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ibu Mertuaku (1962)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Labu Labi (1962)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Nasib Labu Labi (1963)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Seniman_bujang_lapok.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Madu Tiga (1964)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Madu_Tiga.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ragam P Ramlee (1964)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Ragam_P_Ramlee.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Tiga Abdul (1964)
-http://192.168.1.112/shares/T_Drive/pramlee/
-
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Masam Masam Manis (1965)
-http://192.168.1.112/shares/T_Drive/pramlee/
+http://192.168.1.112/shares/T_Drive/pramlee/Tiga_Abdul.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anak Bapak (1968)
 http://192.168.1.112/shares/T_Drive/pramlee/anakbapak.mp4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Keluarga 69 (1967)
+http://192.168.1.112/shares/T_Drive/pramlee/Keluarga_69.mp4

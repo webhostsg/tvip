@@ -151,6 +151,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Rachun Dunia (1950)
+http://192.168.1.112/shares/T_Drive/pramlee/Rachun_Dunia.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Juwita (1951)
 http://192.168.1.112/shares/T_Drive/pramlee/Juwita.mp4
@@ -199,6 +201,9 @@ http://192.168.1.112/shares/T_Drive/pramlee/Ragam_P_Ramlee.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Tiga Abdul (1964)
 http://192.168.1.112/shares/T_Drive/pramlee/Tiga_Abdul.mp4
+
+#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Masam Masam Manis (1965)
+http://192.168.1.112/shares/T_Drive/pramlee/Masam_Masam_Manis.mp4
 
 #EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anak Bapak (1968)
 http://192.168.1.112/shares/T_Drive/pramlee/anakbapak.mp4

@@ -1,8 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="001" tvg-id="001" tvg-name="Channel 5" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="MY/SG",Channel 5
+
+#EXTINF:-1 tvg-chno="001" tvg-id="001" tvg-name="001" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="MY/SG",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+#EXTINF:-1 tvg-chno="002" tvg-id="002" tvg-name="002" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png" group-title="MY/SG",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 

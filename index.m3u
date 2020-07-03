@@ -55,7 +55,7 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 #EXTINF:-1 tvg-name="018" tvg-id="XMLTV ID18" tvg-logo="https://i.imgur.com/469hshv.png" group-title="TV",Nabawi TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="019" tvg-id="XMLTV ID19" tvg-logo="" group-title="TV",AL Bahjah
+#EXTINF:-1 tvg-name="019" tvg-id="XMLTV ID19" tvg-logo="https://live-tv-channels.org/thumbnail?src=%2Fpt-data%2Fuploads%2Flogo%2Fid-al-bahjah-tv.jpg&w=400&hash=d009a034131274bd794aa58f3805cc3a" group-title="TV",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="020" tvg-id="XMLTV ID20" tvg-logo="" group-title="TV",TAWAF TV

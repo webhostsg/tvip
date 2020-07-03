@@ -1,234 +1,225 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="001" tvg-id="XMLTV ID1" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="MY/SG",Channel 5
+#EXTINF:-1 tvg-name="001" tvg-id="XMLTV ID01" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="TV",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
-#EXTINF:-1 tvg-name="002" tvg-id="XMLTV ID2" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png" group-title="MY/SG",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
-
-#EXTINF:-1 tvg-name="003" tvg-id="XMLTV ID3" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png" group-title="MY/SG",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
-
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
+#EXTINF:-1 tvg-name="002" tvg-id="XMLTV ID02" tvg-logo="https://freeview.github.io/iptv/logos/suria.png" group-title="TV",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
-
-#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
+#EXTINF:-1 tvg-name="003" tvg-id="XMLTV ID03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="TV",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="",OKTO on 5
+#EXTINF:-1 tvg-name="004" tvg-id="XMLTV ID04" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="TV",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+#EXTINF:-1 tvg-name="005" tvg-id="XMLTV ID05" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png" group-title="TV",TV1
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+#EXTINF:-1 tvg-name="006" tvg-id="XMLTV ID06" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="TV",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
+#EXTINF:-1 tvg-name="007" tvg-id="XMLTV ID07" tvg-logo="https://freeview.github.io/logos/tv3.png" group-title="TV",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQwXe1BAfaQ30hbI9Uv0Fyo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-
-#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
-
-#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani (Backup)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="",Astro Go Shop
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="",Astro Go Shop 2
-https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="",Astro Naura
-https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="",Drama Sangat
+#EXTINF:-1 tvg-name="008" tvg-id="XMLTV ID08" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="TV",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/469hshv.png" group-title="",Nabawi TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
+https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 group-title="Religi",AL Bahjah
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Religi",TAWAF TV
-http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
-http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="",TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="Religious",ADiTV (Yogyakarta)
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Local",AREK TV SURABAYA
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
+#EXTINF:-1 tvg-name="010" tvg-id="XMLTV ID10" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040362.png" group-title="News",BeritaSatu WORLD
+#EXTINF:-1 tvg-name="011" tvg-id="XMLTV ID11" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040362.png" group-title="TV",BeritaSatu WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="Local",Cahaya TV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNIH" tvg-name="CNN Indonesia HD" tvg-language="Indonesian" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="News",CNN Indonesia
+#EXTINF:-1 tvg-name="012" tvg-id="XMLTV ID12" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="TV",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="",Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="News",METROTV HD 1
+#EXTINF:-1 tvg-name="013" tvg-id="XMLTV ID13" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="TV",METROTV HD 1
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",MYTV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="",NABAWI TV
+#EXTINF:-1 tvg-name="014" tvg-id="XMLTV ID14" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-name="015" tvg-id="XMLTV ID15" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="TV",Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 tvg-name="016" tvg-id="XMLTV ID16" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="TV",Astro Go Shop 2
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+
+#EXTINF:-1 tvg-name="017" tvg-id="XMLTV ID17" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="TV",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-name="018" tvg-id="XMLTV ID18" tvg-logo="https://i.imgur.com/469hshv.png" group-title="TV",Nabawi TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="",RRI Net
-http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-name="019" tvg-id="XMLTV ID19" tvg-logo="" group-title="TV",AL Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
+#EXTINF:-1 tvg-name="020" tvg-id="XMLTV ID20" tvg-logo="" group-title="TV",TAWAF TV
+http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="",TRANS TV HD
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="021" tvg-id="XMLTV ID21" tvg-logo="" group-title="TV",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" group-title="",TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Local",TVRI DKI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Local",TVRI Jawa Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Jawa Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Jawa Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="General",TVRI Nasional
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Javanese" tvg-logo="" group-title="Local",TVRI Yogyakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cip3E0N.jpg" tvg-country="UK" tvg-url="" group-title="",British Muslim TV
+#EXTINF:-1 tvg-name="022" tvg-id="XMLTV ID22" tvg-logo="https://i.imgur.com/cip3E0N.jpg" group-title="TV",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png" tvg-country="TT" tvg-url="" group-title="Religious",The Islamic Network
+#EXTINF:-1 tvg-name="023" tvg-id="XMLTV ID23" tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="TV",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English
+#EXTINF:-1 tvg-name="024" tvg-id="XMLTV ID24" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="TV",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="",Al Quran Al Kareem (Mecca)
+#EXTINF:-1 tvg-name="025" tvg-id="XMLTV ID25" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="TV",Al Quran Al Kareem (Mecca)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Al Sunnah (Medina)
+#EXTINF:-1 tvg-name="026" tvg-id="XMLTV ID26" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" group-title="TV",Al Sunnah (Medina)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
+#EXTINF:-1 tvg-name="027" tvg-id="XMLTV ID27" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="TV",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Rachun Dunia (1950)
+#EXTINF:-1 tvg-name="028" tvg-id="XMLTV ID28" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="TV",TV Ikim
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+
+#EXTINF:-1 tvg-name="029" tvg-id="XMLTV ID29" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV",ADiTV (Yogyakarta)
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="030" tvg-id="XMLTV ID30" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="TV",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-name="031" tvg-id="XMLTV ID31" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV",AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="032" tvg-id="XMLTV ID32" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" group-title="TV",Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="033" tvg-id="XMLTV ID33" tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="TV",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-name="034" tvg-id="XMLTV ID34" tvg-logo="" group-title="TV",MYTV
+https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
+
+#EXTINF:-1 tvg-name="035" tvg-id="XMLTV ID35" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="TV",RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-name="036" tvg-id="XMLTV ID36" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="TV",Ruang Terampil
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574876064~exp=9007200829617055~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=43e732720209b4ede047d32a879e517cc1f2b74fc30d7793054e461b394dfe57
+
+#EXTINF:-1 tvg-name="037" tvg-id="XMLTV ID37" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040459.png" group-title="TV",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-name="038" tvg-id="XMLTV ID38" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040371.jpg" group-title="TV",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="039" tvg-id="XMLTV ID39" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="TV",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-name="040" tvg-id="XMLTV ID40" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-name="041" tvg-id="XMLTV ID41" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-name="042" tvg-id="XMLTV ID42" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-name="043" tvg-id="XMLTV ID43" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-name="044" tvg-id="XMLTV ID44" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-name="045" tvg-id="XMLTV ID45" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="TV",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+
+#EXTINF:-1 tvg-name="070" tvg-id="XMLTV ID70" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Rachun Dunia (1950)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Rachun_Dunia.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Juwita (1951)
+#EXTINF:-1 tvg-name="071" tvg-id="XMLTV ID71" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Juwita (1951)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Juwita.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anjoran Nasib (1952)
+#EXTINF:-1 tvg-name="072" tvg-id="XMLTV ID72" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anjoran Nasib (1952)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Anjoran_Nasib.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hujan Panas (1953)
+#EXTINF:-1 tvg-name="073" tvg-id="XMLTV ID73" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hujan Panas (1953)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Hujan_Panas.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ibu (1953)
+#EXTINF:-1 tvg-name="074" tvg-id="XMLTV ID74" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ibu (1953)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Ibu.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Panggilan Pulau (1954)
+#EXTINF:-1 tvg-name="075" tvg-id="XMLTV ID75" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Panggilan Pulau (1954)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Panggilan_Pulau.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Abu Hasan Penchuri (1955)
+#EXTINF:-1 tvg-name="076" tvg-id="XMLTV ID76" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Abu Hassan Penchuri (1955)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Abu_Hasan_Penchuri.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Penarek Becha (1956)
+#EXTINF:-1 tvg-name="077" tvg-id="XMLTV ID77" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Penarek Becha (1956)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Penarek_Becha.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anakku Sazali (1956)
+#EXTINF:-1 tvg-name="078" tvg-id="XMLTV ID78" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anakku Sazali (1956)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Anakku_Sazali.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Semerah Padi (1956)
+#EXTINF:-1 tvg-name="079" tvg-id="XMLTV ID79" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Semerah Padi (1956)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Semerah_Padi.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Bujang Lapok (1957)
+#EXTINF:-1 tvg-name="080" tvg-id="XMLTV ID80" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Bujang Lapok (1957)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Bujang_Lapok.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sergeant Hassan (1958)
+#EXTINF:-1 tvg-name="081" tvg-id="XMLTV ID81" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sergeant Hassan (1958)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Sarjan_Hassan.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sumpah Orang Minyak (1958)
+#EXTINF:-1 tvg-name="082" tvg-id="XMLTV ID82" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Sumpah Orang Minyak (1958)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Sumpah_Orang_Minyak.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Musang Berjanggut (1959)
+#EXTINF:-1 tvg-name="083" tvg-id="XMLTV ID83" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Musang Berjanggut (1959)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Musang_Berjanggut.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Nujum Pak Belalang (1959)
+#EXTINF:-1 tvg-name="084" tvg-id="XMLTV ID84" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Nujum Pak Belalang (1959)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Nujum_Pak_Belalang.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Pendekar Bujang Lapok (1959)
+#EXTINF:-1 tvg-name="085" tvg-id="XMLTV ID85" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Pendekar Bujang Lapok (1959)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/pendekar_bujang_lapok.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hang Tuah (1959)
+#EXTINF:-1 tvg-name="086" tvg-id="XMLTV ID86" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Hang Tuah (1959)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Hang_Tuah.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Antara Dua Darjat (1960)
+#EXTINF:-1 tvg-name="087" tvg-id="XMLTV ID87" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Antara Dua Darjat (1960)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Antara_Dua_Darjat.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ali Baba Bujang Lapok (1961)
+#EXTINF:-1 tvg-name="088" tvg-id="XMLTV ID88" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ali Baba Bujang Lapok (1961)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Ali_Baba_Bujang_Lapok.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Seniman Bujang Lapok (1961)
+#EXTINF:-1 tvg-name="089" tvg-id="XMLTV ID89" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Seniman Bujang Lapok (1961)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Seniman_bujang_lapok.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Labu Labi (1962)
+#EXTINF:-1 tvg-name="090" tvg-id="XMLTV ID90" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Labu Labi (1962)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Labu_Labi.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Madu Tiga (1964)
+#EXTINF:-1 tvg-name="091" tvg-id="XMLTV ID91" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Madu Tiga (1964)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Madu_Tiga.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ragam P Ramlee (1964)
+#EXTINF:-1 tvg-name="092" tvg-id="XMLTV ID92" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ragam P Ramlee (1964)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Ragam_P_Ramlee.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Tiga Abdul (1964)
+#EXTINF:-1 tvg-name="093" tvg-id="XMLTV ID93" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Tiga Abdul (1964)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Tiga_Abdul.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Masam Masam Manis (1965)
+#EXTINF:-1 tvg-name="094" tvg-id="XMLTV ID94" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Masam Masam Manis (1965)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Masam_Masam_Manis.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anak Bapak (1968)
+#EXTINF:-1 tvg-name="095" tvg-id="XMLTV ID95" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Keluarga 69 (1967)
+ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Keluarga_69.mp4
+
+#EXTINF:-1 tvg-name="096" tvg-id="XMLTV ID96" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Anak Bapak (1968)
 ftp://192.168.1.1:21/Install macOS Catalina/pramlee/anakbapak.mp4
 
-#EXTINF:-1 tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Keluarga 69 (1967)
-ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Keluarga_69.mp4
+#EXTINF:-1 tvg-name="097" tvg-id="XMLTV ID97" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Ahmad Albab (1968)
+ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Ahmad_Albab.mp4
+
+#EXTINF:-1 tvg-name="098" tvg-id="XMLTV ID98" tvg-logo="http://pictures.my.id/images/P.Ramlee.jpg" group-title="P. Ramlee",Doktor Rushdi(1970)
+ftp://192.168.1.1:21/Install macOS Catalina/pramlee/Doktor_Rushdi.mp4

@@ -25,7 +25,7 @@ http://freeview.mywire.org:9090/streams/tv3.m3u8|Referer=https://www.dailymotion
 http://freeview.mywire.org:9090/streams/drama.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+http://freeview.mywire.org:9090/streams/bes.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="010" tvg-id="XMLTV ID10" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8

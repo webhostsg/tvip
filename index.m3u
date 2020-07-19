@@ -13,22 +13,22 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
 #EXTINF:-1 tvg-name="005" tvg-id="XMLTV ID05" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="TV",TV1
-http://freeview.mywire.org:9090/streams/tv1.m3u8|Referer=https://myklik.rtm.gov.my
+https://fvtv.mywire.org/playlist/fnmmhbmtkf-b4k57nztfs.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="006" tvg-id="XMLTV ID06" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="TV",TV2
-http://freeview.mywire.org:9090/streams/tv2.m3u8|Referer=https://myklik.rtm.gov.my
+https://fvtv.mywire.org/playlist/kehbcw6skm-08vne0nvng.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="007" tvg-id="XMLTV ID07" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="TV",TV3
-http://freeview.mywire.org:9090/streams/tv3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-name="008" tvg-id="XMLTV ID08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/200px-Drama_Sangat_HQ.jpg" group-title="TV",Drama Sangat
-http://freeview.mywire.org:9090/streams/drama.m3u8|Referer=https://www.dailymotion.com
+https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://freeview.github.io/logos/bernama.png",BERNAMA 
-http://freeview.mywire.org:9090/streams/bnc.m3u8|Referer=https://www.youtube.com
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
-http://freeview.mywire.org:9090/streams/bes.m3u8|Referer=https://myklik.rtm.gov.my
+https://fvtv.mywire.org/playlist/ncvegqrvu6-ajwrjeekfh.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="010" tvg-id="XMLTV ID10" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -42,9 +42,8 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 #EXTINF:-1 tvg-name="013" tvg-id="XMLTV ID13" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="TV",METROTV HD 1
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-
 #EXTINF:-1 tvg-name="014" tvg-id="XMLTV ID14" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV",Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 
 #EXTINF:-1 tvg-name="015" tvg-id="XMLTV ID15" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="TV",Astro Go Shop
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8

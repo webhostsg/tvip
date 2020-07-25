@@ -87,8 +87,8 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1 tvg-name="029" tvg-id="XMLTV ID29" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" group-title="TV",ADiTV (Yogyakarta)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="030" tvg-id="XMLTV ID30" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png" group-title="TV",TV9
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv9.png",TV9
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-name="031" tvg-id="XMLTV ID31" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8

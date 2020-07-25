@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
-https://fvtv.mywire.org/playlist/ncvegqrvu6-ajwrjeekfh.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="010" tvg-id="XMLTV ID10" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -43,7 +43,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-name="014" tvg-id="XMLTV ID14" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV",Astro Awani
-https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-name="015" tvg-id="XMLTV ID15" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="TV",Astro Go Shop
 https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8

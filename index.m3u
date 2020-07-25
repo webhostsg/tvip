@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="001" tvg-id="XMLTV ID01" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="TV",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
+#EXTINF:-1 group-title="Regional" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
+https://fvtv.mywire.org/playlist/nmeaypcuau-b3uvmf20hh.m3u8
 
-#EXTINF:-1 tvg-name="002" tvg-id="XMLTV ID02" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="TV",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
+#EXTINF:-1 group-title="Regional" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
+https://fvtv.mywire.org/playlist/dceefc1yux-cddedzjh2j.m3u8
 
-#EXTINF:-1 tvg-name="003" tvg-id="XMLTV ID03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="TV",CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
+https://fvtv.mywire.org/playlist/s2xebttbbu-1chku70axg.m3u8
 
 #EXTINF:-1 tvg-name="004" tvg-id="XMLTV ID04" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="TV",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-#EXTINF:-1 tvg-name="005" tvg-id="XMLTV ID05" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="TV",TV1
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
+https://fvtv.mywire.org/playlist/fnmmhbmtkf-b4k57nztfs.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-name="006" tvg-id="XMLTV ID06" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="TV",TV2
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv2.png",TV2
+https://fvtv.mywire.org/playlist/kehbcw6skm-08vne0nvng.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 tvg-name="007" tvg-id="XMLTV ID07" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="TV",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQwXe1BAfaQ30hbI9Uv0Fyo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-name="008" tvg-id="XMLTV ID08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/200px-Drama_Sangat_HQ.jpg" group-title="TV",Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/dramasangat.png",Drama Sangat
+https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://freeview.github.io/logos/bernama.png",BERNAMA 
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bernama.png",BERNAMA 
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/bes.png",Berita RTM
+https://fvtv.mywire.org/playlist/ncvegqrvu6-ajwrjeekfh.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="010" tvg-id="XMLTV ID10" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="TV",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -42,14 +42,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 #EXTINF:-1 tvg-name="013" tvg-id="XMLTV ID13" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040393.png" group-title="TV",METROTV HD 1
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="014" tvg-id="XMLTV ID14" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="TV",Astro Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/awani.png",Astro Awani 
+https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 
-#EXTINF:-1 tvg-name="015" tvg-id="XMLTV ID15" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="TV",Astro Go Shop
-https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
-
-#EXTINF:-1 tvg-name="016" tvg-id="XMLTV ID16" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_300.png" group-title="TV",Astro Go Shop 2
-https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/goshop.png",Astro Go Shop 
+https://fvtv.mywire.org/playlist/qyxhg1unht-6z0gb4rkbm.m3u8
 
 #EXTINF:-1 tvg-name="017" tvg-id="XMLTV ID17" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="TV",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
@@ -72,8 +69,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/in
 #EXTINF:-1 tvg-name="023" tvg-id="XMLTV ID23" tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="TV",The Islamic Network
 http://162.244.81.145:2215/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="024" tvg-id="XMLTV ID24" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="TV",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://freeview.github.io/logos/aljazeera.png",Al Jazeera
+https://fvtv.mywire.org/playlist/62bzb5mjt3-vd1ycapt2f.m3u8
 
 #EXTINF:-1 tvg-name="025" tvg-id="XMLTV ID25" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" group-title="TV",Al Quran Al Kareem (Mecca)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8

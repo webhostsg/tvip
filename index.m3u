@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="001" tvg-id="XMLTV ID01" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="TV",Channel 5
-http://freeview.mywire.org:9090/streams/ch5.m3u8
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
 
 #EXTINF:-1 tvg-name="002" tvg-id="XMLTV ID02" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="TV",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 WebAppManager
@@ -13,19 +13,19 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
 #EXTINF:-1 tvg-name="005" tvg-id="XMLTV ID05" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="TV",TV1
-https://fvtv.mywire.org/playlist/fnmmhbmtkf-b4k57nztfs.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="006" tvg-id="XMLTV ID06" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png" group-title="TV",TV2
-https://fvtv.mywire.org/playlist/kehbcw6skm-08vne0nvng.m3u8|Referer=https://myklik.rtm.gov.my
+https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-name="007" tvg-id="XMLTV ID07" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="TV",TV3
-https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQwXe1BAfaQ30hbI9Uv0Fyo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-name="008" tvg-id="XMLTV ID08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drama_Sangat_HQ.jpg/200px-Drama_Sangat_HQ.jpg" group-title="TV",Drama Sangat
-https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8|Referer=https://www.dailymotion.com
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://freeview.github.io/logos/bernama.png",BERNAMA 
-https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 
 #EXTINF:-1 tvg-name="009" tvg-id="XMLTV ID09" tvg-logo="https://freeview.github.io/iptv/logos/bes.png" group-title="TV",Berita RTM
 https://fvtv.mywire.org/playlist/ncvegqrvu6-ajwrjeekfh.m3u8|Referer=https://myklik.rtm.gov.my

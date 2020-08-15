@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singapura",Channel 5
-https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master.m3u8
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Singapura",Suria
-https://tglmp04.akamaized.net/out/v1/8e365164d7e04f4fad7eaa5e43c05d49/master.m3u8
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8

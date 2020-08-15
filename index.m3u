@@ -32,11 +32,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 
-#EXTINF:0,MY: ASTRO PRIMA
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15892.ts
-#EXTINF:0,MY: ASTRO RIA
-http://king-box.club:80/live/lethesptl/jQApS1LpGU/15891.ts
-
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 

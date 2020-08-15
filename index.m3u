@@ -15,7 +15,7 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
-https://github.com/zulnausa/free-tv-test/blob/master/Tv3.m3u8
+https://raw.githubusercontent.com/zulnausa/free-tv-test/master/Tv3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" group-title="Entertainment",Pertiwi TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8

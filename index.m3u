@@ -29,6 +29,8 @@ https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
+#EXTINF:-1, tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/astro-oasis-png-3.png" group-title="Asia",Astro Prima
+http://energyiptv.streamtv.to:8080/w8ecRdtnZH/KhsTltpoJu/18627
 
 #EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="https://i.imgur.com/PITp6xA.jpg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8

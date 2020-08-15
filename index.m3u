@@ -14,8 +14,8 @@ https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|R
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQwXe1BAfaQ30hbI9Uv0Fyo)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png" group-title="",Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8

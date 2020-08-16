@@ -5,8 +5,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Philippines
 https://df7lqp0btxdx2.cloudfront.net/11227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/AyqNnHj.png" group-title="News",CNN Phillippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/HSklqOj.jpg" group-title="",Inquirer 990 Television
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/nqwE9ij.jpg" group-title="",Life TV Asia

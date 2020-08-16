@@ -39,26 +39,11 @@ https://fvtv.mywire.org/playlist/0eccvjugnq-gvkbtytynw.m3u8|Referer=https://mykl
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/naura.png",Naura
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/hello.png",Hello
-https://fvtv.mywire.org/playlist/9uhgasgstp-bfxkgv0t8s.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/goshop.png",Astro Go Shop 
-https://fvtv.mywire.org/playlist/qyxhg1unht-6z0gb4rkbm.m3u8#
-
 #EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/beritasatu.png",Berita Satu
-https://fvtv.mywire.org/playlist/id/007.m3u8|Referer=https://www.vidio.com 
-
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tvah.png",TV Alhijrah
-https://fvtv.mywire.org/playlist/nujj7qrkcz-u0wjkpejqa.m3u8|Referer=https://www.youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/469hshv.png" group-title="",Nabawi TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+https://fvtv.mywire.org/playlist/id/007.m3u8|Referer=https://www.vidio.com
 
 #EXTINF:-1 group-title="Religi",AL Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Religi",TAWAF TV
-http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="",TV Ikim
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
@@ -78,8 +63,62 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/sctv.png",SCTV
+https://fvtv.mywire.org/playlist/id/001.m3u8|Referer=https://www.vidio.com
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/indosiar.png",Indosiar
+https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/net.png",NET
+https://fvtv.mywire.org/playlist/id/003.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/rcti.png",RCTI
+https://fvtv.mywire.org/playlist/id/004.m3u8|Referer=https://www.vidio.com
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/kompas.png",Kompas TV
+https://fvtv.mywire.org/playlist/id/006.m3u8|Referer=https://www.vidio.com  
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/metro.png",Metro TV
+https://fvtv.mywire.org/playlist/id/008.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/trans7.png",Trans 7
+https://fvtv.mywire.org/playlist/id/009.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/transtv.png",Trans TV
+https://fvtv.mywire.org/playlist/id/010.m3u8|Referer=https://www.vidio.com 
+
 #EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/tvri.png",TVRI
 https://fvtv.mywire.org/playlist/id/011.m3u8|Referer=https://www.vidio.com 
 
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/mnc.png",MNC TV
+https://fvtv.mywire.org/playlist/id/012.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/jaktv.png",Jak TV
+https://fvtv.mywire.org/playlist/id/013.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/gtv.png",Global TV
+https://fvtv.mywire.org/playlist/id/014.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/tvone.png",tVOne
+https://fvtv.mywire.org/playlist/id/020.m3u8|Referer=https://www.youtube.com
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/antv.png",ANTV 
+https://fvtv.mywire.org/playlist/id/021.m3u8|Referer=https://www.vidio.com 
+
+# #EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/rtv.png",RTV
+# https://fvtv.mywire.org/playlist/id/015.m3u8 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/inews.png",iNews
+https://fvtv.mywire.org/playlist/id/016.m3u8|Referer=https://www.vidio.com 
+
 #EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/cnn.png",CNN Indonesia
 https://fvtv.mywire.org/playlist/id/022.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/cnbc.png",CNBC Indonesia
+https://fvtv.mywire.org/playlist/id/023.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/mytv.png",MYTV
+https://fvtv.mywire.org/playlist/id/018.m3u8|Referer=https://www.vidio.com 
+
+#EXTINF:-1 tvg-id=" " group-title=" " tvg-logo="https://freeview.github.io/logos/daai.png",Daai TV
+https://fvtv.mywire.org/playlist/id/019.m3u8|Referer=https://www.vidio.com 

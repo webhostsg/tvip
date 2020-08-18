@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id=" " group-title="Regional" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|Referer=https://www.mewatch.sg|X-Forwarded-For=139.99.62.61
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|Referer=https://www.mewatch.sg|X-Forwarded-For=103.208.179.119
 
 #EXTINF:-1 tvg-id=" " group-title="Regional" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|Referer=https://www.mewatch.sg|X-Forwarded-For=139.99.62.61

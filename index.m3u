@@ -4,7 +4,7 @@
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|Referer=https://www.mewatch.sg|X-Forwarded-For=139.99.62.61	
 
 #EXTINF:-1 tvg-id=" " group-title="Regional" tvg-logo="https://freeview.github.io/logos/suria.png",Suria
-https://dlau142f16b92.cloudfront.net/hls/suriactv/master.m3u8|Referer=https://www.mewatch.sg/en/channels/suria/237652|X-Forwarded-For=139.99.62.61
+https://dlau142f16b92.cloudfront.net/hls/suriactv/master.m3u8|Referer=https://www.mewatch.sg/en/channels/suria/237652
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 https://fvtv.mywire.org/playlist/s2xebttbbu-1chku70axg.m3u8

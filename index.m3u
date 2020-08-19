@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id=" " group-title="Singapore" tvg-logo="https://freeview.github.io/logos/channel-5.png",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg/en/channels/channel-5/316288|User-Agent=Mozilla/5.0
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|X-Forwarded-For=117.20.41.10
 
 #EXTINF:-1 tvg-id=" " group-title="Singapore" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|X-Forwarded-For=117.20.41.10|Referer=https://www.mewatch.sg/en/channels/suria/237652|User-Agent=Mozilla/5.0
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|X-Forwarded-For=117.20.41.10
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8

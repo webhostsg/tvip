@@ -6,6 +6,9 @@ https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8|X-Forwarded-For=117.
 #EXTINF:-1 tvg-id=" " group-title="Singapore" tvg-logo="https://freeview.github.io/logos/suria.png",Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|X-Forwarded-For=117.20.41.10
 
+#EXTINF:-1 tvg-id=" " group-title="Regional" tvg-logo="https://freeview.github.io/logos/suria.png",Suria (Test IP)
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8|X-Forwarded-For=117.20.41.10
+
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://freeview.github.io/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 

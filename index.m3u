@@ -23,13 +23,13 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://fvtv.mywire.org/logos/drama-sangat.png",Drama Sangat
-https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",BERNAMA 
-https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
+https://fvtv2.mywire.org/streams/youtube/ch_bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id=" " group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8

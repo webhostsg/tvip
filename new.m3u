@@ -1,56 +1,21 @@
+#EXTINF:-1 tvg-id="101" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-720.m3u8
 
-#EXTINF:0, group-title="SINGAPORE" tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png" group-title="Singapore/Malaysia",Channel 5
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+#EXTINF:-1 tvg-id="103" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHbSOYX8GIucAUy_i9xmFAG8)/dm/3/x6qp375/d/live-2.m3u8
 
-#EXTINF:0, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png" group-title="Singapore/Malaysia",Suria
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+#EXTINF:-1 tvg-id="CHN" group-title="MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0ifjZ8vXnZmqBt0dNZXw_Hg)/dm/3/x6zvnex/s/live-1.m3u8
 
-#EXTINF:0, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png" group-title="Singapore/Malaysia",CNA News
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
-
-#EXTINF:0, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png" group-title="Singapore/Malaysia",Al-Jazeera
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52970
-
-#EXTINF:0, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png" group-title="Singapore/Malaysia",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8
-
-#EXTINF:0, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/d32f701ade54ad5a6bc6e.png" group-title="Singapore/Malaysia",Al-Hijrah CH114
+#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MALAYSIA",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",TVRI NASIONAL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",Citra Drama
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",Citra Muslim
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6678_720p/index.m3u8
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",Citra Bioskop
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",TV Edukasi
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6838_720p/index.m3u8
-#EXTINF:0, group-title="Indonesia" tvg-logo="" group-title="Singapore/Malaysia",Berita Satu
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="TV Alhijrah" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/cna.png" group-title="MALAYSIA",CNA
+https://stream-02.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIallSlsNZzPAew9fhm94gLAD8)/dm/3/x7ptegr/s/live-1.m3u8
 
-#EXTINF:0, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="Singapore/Malaysia",Drama Sangat
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0jM-ropJaMG17cT7NBDX2JA)/dm/3/x6zvnex/s/live-4.m3u8
-#EXTINF:0, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="Singapore/Malaysia",Drama Sangat [Backup]
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-
-http://live8.cdn.iptv8k.org/review_stream/tv3kbmm21/i.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png" group-title="Singapore/Malaysia",Astro Ria CH104
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="Singapore/Malaysia",Astro Prima CH105
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/1f0a0fe99a2d38e5086aa.jpg" group-title="Singapore/Malaysia",Astro Oasis CH106
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="Singapore/Malaysia",Astro Warna CH107
-http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="Singapore/Malaysia",Astro Citra CH108
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="Singapore/Malaysia",Naura HD CH109
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:0, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png" group-title="Singapore/Malaysia",Suria CH110
-http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b910978ea89d38d0b179e.png" group-title="Singapore/Malaysia",Astro Rania CH112
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-#EXTINF:0, group-title="ASTRO" tvg-logo="https://telegra.ph/file/379ff1670c9cbdd4c6935.png" group-title="Singapore/Malaysia",Astro Aura CH113
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:-1 tvg-id="123" group-title="MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-720.m3u8
